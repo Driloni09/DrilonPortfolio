@@ -3,10 +3,14 @@ import App from "./App.vue";
 import router from "./router";
 import store from "./store";
 
+
+
 Vue.config.productionTip = false;
+
+
 
 new Vue({
   render: h => h(App),
   store,
-  router //added router instance
+ //added router instance
 }).$mount('#app')

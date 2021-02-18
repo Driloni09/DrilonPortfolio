@@ -9,18 +9,15 @@
                             <div class="card">
                                 <div class="card-head">
                                     <img alt="Vue logo"
-                                      class="rounded-circle img-custome" 
-            src="https://cdn.mos.cms.futurecdn.net/wH5y2PkWhCxqKBje8rBp5e.jpg">
-                                    <h2>web project</h2>
+                                      class="rounded-circle img-custome" src="https://cdn.mos.cms.futurecdn.net/wH5y2PkWhCxqKBje8rBp5e.jpg">
+                                    <h2>Projektet e perfunduara</h2>
                                 </div>
                                 <hr>
                                 <div class="card-body">
                                     <p>
-                                        Donec sed odio dui. 
-                                  Etiam porta sem malesuada magna mollis euismod. 
-                          Nullam id dolor id nibh ultricies vehicula ut id elit. 
-                                Morbi leo risus, porta ac consectetur ac, 
-                            vestibulum at eros. Praesent commodo cursus magna.
+                                       Ketu kam paraqitur disa prej projekteve te mijat te cilat i kam perfunduara
+                                       koheve te fundit. Ka disa prej tyre qe i kemi bere ne menyre ekipore, por ka edhe 
+                                       projekte ne te cilat kam punuar vet, per me shume klikoni tekk butoni More.
                                     </p>
                           <button type="button" class="btn btn-outline-secondary">
                             More
@@ -33,14 +30,13 @@
                             <div class="card">
                                 <div class="card-head">
                                     <img alt="Vue logo" class="rounded-circle img-custome" src="https://i.pinimg.com/originals/4a/70/56/4a70563234301578c158dc142384a1c3.png">
-                                    <h2>web project</h2>
+                                    <h2>Hobit e ndryshem</h2>
                                 </div>
                                 <hr>
                                 <div class="card-body">
                                     <p>
-                                        Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. 
-                                        Nullam id dolor id nibh ultricies vehicula ut id elit. 
-                                        Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.
+                                       Ketu kam paraqitur disa nga hibit e mi me te cilen e kaloj kohen e lire. Ketu kam paraqitur
+                                       vetem disa nga honit te cilet i kam kohen e fundit, per me shume klikoni butonin More.
                                     </p>
                                     <button type="button" class="btn btn-outline-secondary">More</button>
                                 </div>
@@ -51,14 +47,14 @@
                         <div class="card">
                             <div class="card-head">
                                 <img alt="Vue logo" class="rounded-circle img-custome" src="https://cdn.mos.cms.futurecdn.net/wH5y2PkWhCxqKBje8rBp5e.jpg">
-                                <h2>web project</h2>
+                                <h2>Synimet per profesion</h2>
                             </div>
                             <hr>
                             <div class="card-body">
                                 <p>
-                                    Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. 
-                                    Nullam id dolor id nibh ultricies vehicula ut id elit. 
-                                    Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.
+                                    Ne kete pjese kam paraqitur disa nga synimet e mija se cka dua te pervetsoj ne dijen time sa 
+                                    i perket anes profesionale. Keto te qe i kam permendur jane synimet e mija per kete vit dhe shpresoj
+                                    qe ti arrije, per me shume klikoni butonin More.
                                 </p>
                                 <button type="button" class="btn btn-outline-secondary">More</button>
                             </div>

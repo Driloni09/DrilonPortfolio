@@ -2,16 +2,22 @@
   <div id="app">
     <navigation/> 
     <lander/>
+    <studies/>
     <portfolio/>
     <contact/>
+    <Footer/>
+    <projects/>
   </div>
 </template>
 
 <script>
-import Navigation from './components/Includes/Navigation.vue' //import the component
+import Navigation from './components/Includes/Navigation.vue' 
 import Lander from './components/Lander.vue'
 import Portfolio from './components/Portfolio.vue'
 import Contact from './components/Includes/Contact.vue'
+import Footer from './components/Includes/Footer.vue'
+import Studies from './components/Studies.vue'
+import Projects from './components/Portfolio/Projects.vue'
 
 export default {
   name: 'App',
@@ -19,7 +25,10 @@ export default {
     Navigation,  //instantiate it here
     Lander,
     Portfolio,
-    Contact
+    Contact,
+    Footer,
+    Studies,
+    Projects
   }
 }
 

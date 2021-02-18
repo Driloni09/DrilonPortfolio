@@ -1,9 +1,9 @@
 
 <template>
-    <div>
+    <div class="contact-i">
         <div class="container" style="padding:8%" >
             <h2>Contact Me</h2>
-            <form action="mailto:alloyking1@gmail.com" 
+            <form action="drilonrexhepi98@gmail.com" 
               method="post" enctype="text/plain">
                 <div class="form-group">
                     <input type="email" class="form-control"
@@ -49,3 +49,8 @@ export default {
 
 </script>
 
+<style lang="css" scoped>
+.contact-i{
+    background-color: bisque;
+}
+</style>
