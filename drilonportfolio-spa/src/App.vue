@@ -1,12 +1,30 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view />
+    <navigation/> 
+    <lander/>
+    <portfolio/>
+    <contact/>
   </div>
 </template>
+
+<script>
+import Navigation from './components/Includes/Navigation.vue' //import the component
+import Lander from './components/Lander.vue'
+import Portfolio from './components/Portfolio.vue'
+import Contact from './components/Includes/Contact.vue'
+
+export default {
+  name: 'App',
+  components: {
+    Navigation,  //instantiate it here
+    Lander,
+    Portfolio,
+    Contact
+  }
+}
+
+
+</script>
 
 <style lang="scss">
 #app {
@@ -19,7 +37,7 @@
 
 #nav {
   padding: 30px;
-
+ 
   a {
     font-weight: bold;
     color: #2c3e50;
