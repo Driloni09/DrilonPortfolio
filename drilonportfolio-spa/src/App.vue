@@ -4,9 +4,9 @@
     <lander/>
     <studies/>
     <portfolio/>
+    <projects/>
     <contact/>
     <Footer/>
-    <projects/>
   </div>
 </template>
 
